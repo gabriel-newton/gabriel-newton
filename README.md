@@ -21,5 +21,9 @@ Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.co
     <a href="https://code.visualstudio.com/docs" style="margin-right: 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="34" height="34"/></a>
     <a href="https://help.obsidian.md/" style="margin-right: 4px;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian" width="34" height="34"/></a>
     <a href="https://www.gnu.org/software/bash/manual/" style="margin-right: 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="34" height="34"/></a>
-    <a href="https://docs.github.com/en" style="margin-right: 4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="34" height="34"/></a>
 </p>
+
+## Featured Projects:
+<a href="https://docs.github.com/gabriel-newton/proteins" style="margin-right: 4px;"><img src="https://github.com/user-attachments/assets/504f9cad-6b80-4e2e-ba6e-b1fa9455bc0a" alt="Proteins" width="50%"/></a>
+
+
