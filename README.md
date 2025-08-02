@@ -2,25 +2,48 @@
 
 This is where I test whether or not my ideas are sensible, or more importantly, possible. My code is lactose-free.<br><br>
 Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
-
-<p>
-    <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-C06705?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://jupyter.org/documentation"><img src="https://img.shields.io/badge/Jupyter-C06705?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
-    <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-C06705?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-    <a href="https://scikit-learn.org/stable/user_guide.html"><img src="https://img.shields.io/badge/scikit--learn-C06705?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></a>
-    <a href="https://pandas.pydata.org/docs/"><img src="https://img.shields.io/badge/pandas-C06705?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-    <a href="https://plotly.com/python/"><img src="https://img.shields.io/badge/Plotly-C06705?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></a>
-    <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-C06705?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-C06705?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-C06705?style=for-the-badge&logo=css" alt="CSS"/></a>
-    <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-C06705?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-    <a href="https://wiki.archlinux.org/"><img src="https://img.shields.io/badge/Linux-C06705?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
-    <a href="https://wiki.archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-C06705?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/></a>
-    <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/git-C06705?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-    <a href="https://vscodium.com/"><img src="https://img.shields.io/badge/VSCodium-C06705?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium"/></a>
-    <a href="https://help.obsidian.md/"><img src="https://img.shields.io/badge/Obsidian-C06705?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/></a>
-    <a href="https://www.gnu.org/software/bash/manual/"><img src="https://img.shields.io/badge/Bash-C06705?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
-</p>
-
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="8%"><a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48"/></a></td>
+    <td align="center" width="17%"><img src="https://img.shields.io/badge/Python-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center" width="8%"><a href="https://jupyter.org/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/></a></td>
+    <td align="center" width="17%"><img src="https://img.shields.io/badge/Jupyter-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center" width="8%"><a href="https://pytorch.org/docs/stable/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48"/></a></td>
+    <td align="center" width="17%"><img src="https://img.shields.io/badge/PyTorch-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center" width="8%"><a href="https://scikit-learn.org/stable/user_guide.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/></a></td>
+    <td align="center" width="17%"><img src="https://img.shields.io/badge/scikit--learn-7F4400?style=for-the-badge" height="25"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://pandas.pydata.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://plotly.com/python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Plotly-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://wiki.archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Linux-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://wiki.archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Arch_Linux-7F4400?style=for-the-badge" height="25"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-7F4400?style=for-the-badge" height="25"/></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Git-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://code.visualstudio.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/VS_Code-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://help.obsidian.md/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Obsidian-7F4400?style=for-the-badge" height="25"/></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/manual/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48"/></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/Bash-7F4400?style=for-the-badge" height="25"/></td>
+  </tr>
+</table>
 ## Featured Projects:
+
 <a href="https://github.com/gabriel-newton/proteins"><img src="https://github.com/user-attachments/assets/f42d615f-b287-48e9-8485-8ea8aa81553a" alt="Proteins" width="50%" style="border-radius:5px;"/></a>
