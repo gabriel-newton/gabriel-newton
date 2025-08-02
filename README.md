@@ -46,6 +46,3 @@ Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.co
   </tr>
 </table>
 </div>
-  
-## Featured Projects:
-<a href="https://github.com/gabriel-newton/proteins"><img src="https://github.com/user-attachments/assets/f42d615f-b287-48e9-8485-8ea8aa81553a" alt="Proteins" width="50%" style="border-radius:5px;"/></a>
