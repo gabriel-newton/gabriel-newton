@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 This is where I test whether or not my ideas are sensible, or more importantly, possible.<br>
-Please feel free to contact me at <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
+Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
 ## Languages/Tools I use:
 
 <p>
