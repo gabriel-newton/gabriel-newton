@@ -2,6 +2,7 @@
 
 This is where I test whether or not my ideas are sensible, or more importantly, possible. My code is lactose-free.<br><br>
 Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
+<div align="center">
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="8%"><a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48"/></a></td>
@@ -44,6 +45,7 @@ Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.co
     <td align="center"><img src="https://img.shields.io/badge/Bash-009060?style=for-the-badge" height="25"/></td>
   </tr>
 </table>
-
+</div>
+  
 ## Featured Projects:
 <a href="https://github.com/gabriel-newton/proteins"><img src="https://github.com/user-attachments/assets/f42d615f-b287-48e9-8485-8ea8aa81553a" alt="Proteins" width="50%" style="border-radius:5px;"/></a>
