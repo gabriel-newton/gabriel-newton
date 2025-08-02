@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-This is where I test whether or not my ideas are sensible, or more importantly, possible. My code is lactose-free.<br><br>
+This is where I test whether are possible. My code is lactose-free.<br><br>
 Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
 <div align="center">
 <table width="100%" style="table-layout: fixed;">
