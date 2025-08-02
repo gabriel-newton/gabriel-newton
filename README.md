@@ -1,6 +1,7 @@
 ## Welcome to my profile!
 
-This is where I store my professional and personal projects. Feel free to contact me at <a href="email:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
+This is where I test whether or not my ideas are sensible, or more importantly, possible.<br>
+Please feel free to contact me at <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
 ## Languages/Tools I use:
 
 <p>
