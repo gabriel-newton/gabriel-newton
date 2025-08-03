@@ -1,7 +1,27 @@
-## Welcome to my profile!
+```python
+class GabrielNewton:
+    def __init__(self):
+        self.name = "Gabriel Newton"
+        self.pronouns = ["he", "him"]
+        self.education = {
+            "postgraduate": "MSc Data Science & Artificial Intelligence",
+            "undergraduate": "BSc Mathematics"
+        }
+        self.status = "Actively seeking full-time opportunities!"
+        self.interests_personal = [
+            "Playing Piano", "Playing Guitar", "Playing Chess",
+            "Surf-Skating", "Drinking Coffee"
+        ]
 
-This is where I test whether my ideas are possible. My code is lactose-free.<br><br>
-Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.com">ContactGabrielNewton@gmail.com</a>
+    def connect(self):
+        print("Please feel free to contact me via email: ContactGabrielNewton@gmail.com")
+        return True
+
+    def display_tech_stack(self):
+        print(`"{...
+
+```
+
 <div align="center">
 <table width="100%" style="table-layout: fixed;">
   <tr>
@@ -46,3 +66,11 @@ Please feel free to contact me at: <a href="mailto:ContactGabrielNewton@gmail.co
   </tr>
 </table>
 </div>
+
+```python
+        ...}")
+
+    def consume_milk(self):
+        # Lactose intolerant
+        raise SystemError("Critical failure.")
+```
