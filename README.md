@@ -7,12 +7,12 @@ class GabrielNewton:
             "postgraduate": {
                 "degree": "MSc Data Science & Artificial Intelligence",
                 "university": "The University of Liverpool",
-                "average": "Expected Distinction (85%)"
+                "grade": "Expected Distinction (85%)"
             },
             "undergraduate": {
                 "degree": "BSc Mathematics",
                 "university": "The University of Birmingham",
-                "average": "2:1 (68%)"
+                "grade": "2:1 (68%)"
             }
         }
         self.status = "Actively seeking full-time opportunities!"
