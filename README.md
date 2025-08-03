@@ -6,12 +6,12 @@ class GabrielNewton:
         self.education = {
             "postgraduate": {
                 "degree": "MSc Data Science & Artificial Intelligence",
-                "university": "University of Liverpool",
+                "university": "The University of Liverpool",
                 "average": "Expected Distinction (85%)"
             },
             "undergraduate": {
                 "degree": "BSc Mathematics",
-                "university": "University of Birmingham",
+                "university": "The University of Birmingham",
                 "average": "2:1 (68%)"
             }
         }
