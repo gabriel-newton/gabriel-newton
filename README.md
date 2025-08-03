@@ -69,6 +69,7 @@ class GabrielNewton:
 
 ```python
         ...}")
+        return True
 
     def consume_milk(self):
         # Lactose intolerant
