@@ -26,7 +26,7 @@ class GabrielNewton:
         return True
 
     def display_tech_stack(self):
-        print(`"{...
+        print(f"{...
 
 ```
 
